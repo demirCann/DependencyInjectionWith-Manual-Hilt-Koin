@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/manualFragment"
+        android:icon="@drawable/manual"
+        android:title="@string/manual" />
+
+    <item
+        android:id="@+id/hiltFragment"
+        android:icon="@drawable/hilt"
+        android:title="@string/hilt" />
+
+    <item
+        android:id="@+id/koinFragment"
+        android:icon="@drawable/koin"
+        android:title="@string/koin" />
+
+</menu>
